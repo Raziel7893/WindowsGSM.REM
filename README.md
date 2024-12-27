@@ -6,6 +6,7 @@
 ### Notes
 - Please start the server once, then look into serverfiles\RemSurvival\Saved\Config\WindowsServer\ServerConfig.ini for your serversettings.
 - ServerName and ServerPassword are highly recommended to be changed
+- Thought about generating the file with the plugin, but for early access games that can be bad, as in that case new options are ignored. 
 
 ### WindowsGSM Installation: 
 1. Download  WindowsGSM https://windowsgsm.com/ 
